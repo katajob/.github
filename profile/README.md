@@ -1,4 +1,4 @@
-# KataJob — Structured Interview Prep for Developers
+# KataJob — Structured Technical Interview Prep
 
 Technical interview questions, answered at three depths and scheduled for review. Pick a roadmap for a
 role or a skill, set a plan, learn. No account to start:
